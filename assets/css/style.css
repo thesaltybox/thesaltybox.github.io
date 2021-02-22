@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&family=Quicksand:wght@300&family=Shippori+Mincho&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Ubuntu:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Newsreader:wght@200&family=Open+Sans&display=swap');
+
+
+
+body{
+    background-color: #f5f5f5;
+    font-family: 'Merriweather', serif;
+    font-size: 11pt;
+    font-weight: 580;
+
+}
+
+h1 a, h1 a:hover{
+    text-decoration: none;
+    color: #6b613e;
+
+}
+
+h1{
+    margin-top: 80px;
+    line-height: 35pt;
+}
+
+.container-lg{
+width: 60%;
+margin: 0% auto;
+text-align: justify;
+word-spacing: 1pt;
+line-height: 20pt;
+color: #000;
+}
+
+h1{
+    font-family: 'Merriweather', serif;
+    color: #0c2530;
+
+}
+
+h2, h3, h4, h5, h6{
+    font-family: 'Ubuntu', sans-serif;
+    color: #0c2530;
+}
+
+
+h1{
+    text-align: center;
+}
+
+.highlight{
+    border-radius: 0px 10px;
+    background: #0c2530;
+    color: #bfad6f;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+
+}
+
+blockquote{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;  
+    border-radius: 0px 10px;
+    background: #d8d0b5;
+    color: #0c2530;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+
+.language-plaintext{
+    color: #0c2530;   
+}
+
+.footnotes{
+    border-radius: 3px 3px;
+    background-color: #303030;
+    font-family: 'Open Sans', sans-serif; 
+    font-size: 10pt;
+    padding-top: .5%;
+    padding-bottom: .5%;
+    padding-left: 1%;
+    padding-right: 2%;
+    margin-top: 10px;
+    color: #bfad6f;
+    text-align: left;
+}
+
+.reversefootnote{
+    color: beige;
+}
+
+
+.highlight .cm{color:#999988;font-style:italic}
+.highlight .cp{color:#999999;font-weight:bold}
+.highlight .c1{color:#999988;font-style:italic}
+.highlight .cs{color:#999999;font-weight:bold;font-style:italic}
+.highlight .c,.highlight .cd{color:#999988;font-style:italic}
+.highlight .err{color:#a61717;background-color:#e3d2d2}
+.highlight .gd{color:#FFFFFF;background-color:#ffdddd}
+.highlight .ge{color:#FFFFFF;font-style:italic}
+.highlight .gr{color:#aa0000}
+.highlight .gh{color:#999999}
+.highlight .gi{color:#FFFFFF;background-color:#ddffdd}
+.highlight .go{color:#888888}
+.highlight .gp{color:#c76161}
+.highlight .gs{font-weight:bold}
+.highlight .gu{color:#aaaaaa}
+.highlight .gt{color:#aa0000}
+.highlight .kc{color:#FFFFFF;font-weight:bold}
+.highlight .kd{color:#FFFFFF;font-weight:bold}
+.highlight .kn{color:#fdeeee;font-weight:bold}
+.highlight .kp{color:#dad3d3;font-weight:bold}
+.highlight .kr{color:#ece3e3;font-weight:bold}
+.highlight .kt{color:#445588;font-weight:bold}
+.highlight .k,.highlight .kv{color:#FFFFFF;font-weight:bold}
+.highlight .mf{color:#009999}
+.highlight .mh{color:#009999}
+.highlight .il{color:#009999}
+.highlight .mi{color:#009999}
+.highlight .mo{color:#009999}
+.highlight .m,.highlight .mb,.highlight .mx{color:#009999}
+.highlight .sb{color:#d14}
+.highlight .sc{color:#d14}
+.highlight .sd{color:#d14}
+.highlight .s2{color:#d14}
+.highlight .se{color:#d14}
+.highlight .sh{color:#d14}
+.highlight .si{color:#d14}
+.highlight .sx{color:#d14}
+.highlight .sr{color:#009926}
+.highlight .s1{color:#d14}
+.highlight .ss{color:#990073}
+.highlight .s{color:#d14}
+.highlight .na{color:#008080}
+.highlight .bp{color:#999999}
+.highlight .nb{color:#0086B3}
+.highlight .nc{color:#8f9bc0;font-weight:bold}
+.highlight .no{color:#008080}
+.highlight .nd{color:#3c5d5d;font-weight:bold}
+.highlight .ni{color:#800080}
+.highlight .ne{color:#990000;font-weight:bold}
+.highlight .nf{color:#990000;font-weight:bold}
+.highlight .nl{color:#990000;font-weight:bold}
+.highlight .nn{color:#b97979}
+.highlight .nt{color:#7c7cd6}
+.highlight .vc{color:#008080}
+.highlight .vg{color:#008080}
+.highlight .vi{color:#008080}
+.highlight .nv{color:#008080}
+.highlight .ow{color:#ebdede;font-weight:bold}
+.highlight .o{color:#f3eded;font-weight:bold}
+.highlight .w{color:#bbbbbb}
