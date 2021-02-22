@@ -157,3 +157,22 @@ blockquote{
 .highlight .ow{color:#ebdede;font-weight:bold}
 .highlight .o{color:#f3eded;font-weight:bold}
 .highlight .w{color:#bbbbbb}
+
+
+
+img{
+    width: 100%;
+    text-align: center;
+    border-radius: 10px 10px 10px 10px;
+
+}
+
+table{
+    width: 100%;
+    text-align: center;
+}
+
+thead th{
+    background-color: rgba(21, 63, 80, 0.644);
+    color: #FFFFFF;
+}
