@@ -19,6 +19,6 @@
 ## Markdown en este theme
 
 - [Cómo se ven los blockquotes](post/a.md)
-- [Cómo se ve el código](post/code.md)
+- [Cómo se ve el código](post/code.html)
 - [imagenes tablas y graficos](post/img-tablas-graph.md)
 
