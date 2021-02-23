@@ -22,10 +22,10 @@ Otra desventaja es la viability gap y la discriminación por algoritmo, son prob
 
 Existen muchísimas desventajas pero solucionando las dos anteriores podrían convertirse en un problema menor, La posible solución a mi parecer serían las bases de datos de pruebas (de todo tipo) ya que ayudarían a verificar si en verdad el imputado cometió el delito. Esta idea me viene a la mente debido al proyecto inocencia[^4], es el proyecto donde se busca corregir las penas erróneas, de esta forma siendo la inteligencia artificial más «exacta» en los argumentos jurídicos y legales, en teoría, podría haber menos injusticias.
 
-[^1]: Ciencia “La inteligencia artificial cuenta con un margen de error del 3%; los humanos, un 5%”, El País Retina https://retina.elpais.com/retina/2019/02/22/innovacion/1550841495_045791.html
+[^1]: Ciencia “La inteligencia artificial cuenta con un margen de error del 3%; los humanos, un 5%”, El País Retina [https://retina.elpais.com/retina/2019/02/22/innovacion/1550841495_045791.html](https://retina.elpais.com/retina/2019/02/22/innovacion/1550841495_045791.html)
 
-[^2]: "Computación Los robots quirúrgicos han causado la muerte de 144 pacientes en EEUU", The Physics Arxiv Blog  https://www.technologyreview.es/s/7412/los-robots-quirurgicos-han-causado-la-muerte-de-144-pacientes-en-eeuu
+[^2]: "Computación Los robots quirúrgicos han causado la muerte de 144 pacientes en EEUU", The Physics Arxiv Blog  [https://www.technologyreview.es/s/7412/los-robots-quirurgicos-han-causado-la-muerte-de-144-pacientes-en-eeuu](https://www.technologyreview.es/s/7412/los-robots-quirurgicos-han-causado-la-muerte-de-144-pacientes-en-eeuu)
 
-[^3]:  La inteligencia artificial de Microsoft se vuelve nazi y racista en un día, FALLO EN EL SISTEMA, La Vanguardia  https://www.lavanguardia.com/tecnologia/internet/20160325/40672722377/inteligencia-artificial-microsoft-nazi.html
+[^3]:  La inteligencia artificial de Microsoft se vuelve nazi y racista en un día, FALLO EN EL SISTEMA, La Vanguardia  [https://www.lavanguardia.com/tecnologia/internet/20160325/40672722377/inteligencia-artificial-microsoft-nazi.html](https://www.lavanguardia.com/tecnologia/internet/20160325/40672722377/inteligencia-artificial-microsoft-nazi.html)
 
-[^4]: Inocence Project https://innocenceproject.org/
+[^4]: Inocence Project [https://innocenceproject.org/](https://innocenceproject.org/)
