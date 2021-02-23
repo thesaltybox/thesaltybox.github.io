@@ -176,3 +176,26 @@ thead th{
     background-color: rgba(21, 63, 80, 0.644);
     color: #FFFFFF;
 }
+
+.footnotes a, .footnotes a:visited{
+    color:rgb(216, 215, 167);
+
+}
+
+.footnotes a:hover{
+    color:rgb(167, 206, 216);
+}
+
+a, a:visited{
+    
+    color: rgb(230, 42, 114);
+    font-weight: bold;
+}
+
+a:hover{
+    color: rgb(230, 149, 42);
+}
+
+.language-plaintext, .language-bash{
+    white-space: pre-line;   
+}
