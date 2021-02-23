@@ -186,6 +186,7 @@ thead th{
     color:rgb(167, 206, 216);
 }
 
+/*
 a, a:visited{
     
     color: rgb(230, 42, 114);
@@ -199,3 +200,4 @@ a:hover{
 .language-plaintext, .language-bash{
     white-space: pre-line;   
 }
+*/
