@@ -21,4 +21,5 @@
 - [Cómo se ven los blockquotes](post/a.md)
 - [Cómo se ve el código](post/code.html)
 - [imagenes tablas y graficos](post/img-tablas-graph.md)
+- [Un artículo entero](post/articulo.md)
 
