@@ -1,4 +1,4 @@
-# Diversas instalaciones de NODEJS
+# Diversas instalaciones de Node.js en Debian o Ubuntu
 
 ## Node.js Current:
 
