@@ -7,6 +7,7 @@
 - [Personalizar nano en Debian/Ubuntu](post/nanorc.md)
 - [Habilitar edición de particiones en Debian/Ubuntu](post/habilitar_particiones.md)
 - [Busqueda de multiples términos y copiar los archivos en un directorio específico](post/buscar_multiples.md)
+- [Instalaciones de NodeJs según su versión](post/node-js-install.md)
 
 ## Otros enlaces
 
