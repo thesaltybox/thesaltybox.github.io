@@ -8,6 +8,7 @@
 - [Habilitar edición de particiones en Debian/Ubuntu](post/habilitar_particiones.md)
 - [Busqueda de multiples términos y copiar los archivos en un directorio específico](post/buscar_multiples.md)
 - [Instalaciones de NodeJs según su versión en Debian y Ubuntu](post/node-js-install.md)
+- [Solucionar problema entre GCC y PyAudio](post/gcc-pyaudio-error.md)
 
 ## Otros enlaces
 
